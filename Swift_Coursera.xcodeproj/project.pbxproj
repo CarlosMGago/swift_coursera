@@ -49,6 +49,7 @@
 		D94AA0101D8F6FC500229CD1 /* Swift_CourseraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Swift_CourseraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D94AA0141D8F6FC500229CD1 /* Swift_CourseraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_CourseraUITests.swift; sourceTree = "<group>"; };
 		D94AA0161D8F6FC500229CD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D94AA0221D8F72E600229CD1 /* MiniReto_Swift_Coursera.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniReto_Swift_Coursera.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +105,7 @@
 				D94A9FF51D8F6FC500229CD1 /* Main.storyboard */,
 				D94A9FFB1D8F6FC500229CD1 /* Assets.xcassets */,
 				D94A9FFD1D8F6FC500229CD1 /* LaunchScreen.storyboard */,
+				D94AA0221D8F72E600229CD1 /* MiniReto_Swift_Coursera.playground */,
 				D94AA0001D8F6FC500229CD1 /* Info.plist */,
 				D94A9FF81D8F6FC500229CD1 /* Swift_Coursera.xcdatamodeld */,
 			);
